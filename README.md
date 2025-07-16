@@ -16,6 +16,7 @@ A Flutter application for scheduling surgical operation appointments in hospital
 - 🗃 Local storage with models prepared for backend
 
 ---
+
 ## 🎥 Demo Video
 
 Watch a short demo of the Surgery Booking App in action:
@@ -24,15 +25,29 @@ Watch a short demo of the Surgery Booking App in action:
 
 ---
 
-## 🧪 Technologies Used
+## 📸 App Screenshots
 
-- **Flutter** (Dart)
-- **Local storage** (Hive/SharedPreferences or similar)
-- **Lottie animations**
-- Project structured with:
-  - `models/`
-  - `screens/`
-  - `assets/`
+Here are sample screens from the app showcasing different functionalities:
+
+| Splash | Login | Home |
+|--------|-------|------|
+| ![](assets/images/screenshots/spalsh.jpg) | ![](assets/images/screenshots/login.jpg) | ![](assets/images/screenshots/home.jpg) |
+
+| Drawer | Profile | Calendar |
+|--------|---------|----------|
+| ![](assets/images/screenshots/drawer.jpg) | ![](assets/images/screenshots/profile.jpg) | ![](assets/images/screenshots/calender_for_booking.jpg) |
+
+| Booking Details | Confirmed Booking | Finish Booking |
+|------------------|-------------------|----------------|
+| ![](assets/images/screenshots/booking_details.jpg) | ![](assets/images/screenshots/confirmed_booking.jpg) | ![](assets/images/screenshots/finish_booking.jpg) |
+
+| Operation Rooms | Patient Rooms | Patient Info |
+|------------------|----------------|---------------|
+| ![](assets/images/screenshots/operation_rooms.jpg) | ![](assets/images/screenshots/patient_rooms.jpg) | ![](assets/images/screenshots/patient_information.jpg) |
+
+| All Operations | Edit Operation | About Page |
+|----------------|----------------|-------------|
+| ![](assets/images/screenshots/all_operations.jpg) | ![](assets/images/screenshots/edit_operations.jpg) | ![](assets/images/screenshots/about_app.jpg) |
 
 ---
 
